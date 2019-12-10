@@ -13,6 +13,7 @@ export default class Account extends Component {
                 <style jsx global>{`body{margin: 0; padding: 0;}`}</style>
 
                 <h2>Account page work.</h2>
+                <h3>Develop By: Panupong</h3>
             </Layout>
         )
     }

@@ -11846,14 +11846,21 @@ function (_Component) {
       }, __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_5___default.a, {
         id: "141283298",
         __self: this
-      }, "body{margin:0;padding:0;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkM6XFxjb2RpbmdcXHNtYXQtZnJpbmRcXHBhZ2VzXFxhY2NvdW50LmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQVltQyxBQUNjLFNBQVcsVUFBQyIsImZpbGUiOiJDOlxcY29kaW5nXFxzbWF0LWZyaW5kXFxwYWdlc1xcYWNjb3VudC5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBSZWFjdCwgeyBDb21wb25lbnQgfSBmcm9tICdyZWFjdCdcclxuaW1wb3J0IExheW91dCBmcm9tICcuLi9jb21wb25lbnRzL2xheW91dCdcclxuaW1wb3J0IEhlYWQgZnJvbSAnbmV4dC9oZWFkJ1xyXG5cclxuZXhwb3J0IGRlZmF1bHQgY2xhc3MgQWNjb3VudCBleHRlbmRzIENvbXBvbmVudCB7XHJcbiAgICBjb25zdHJ1Y3Rvcihwcm9wcykge1xyXG4gICAgICAgIHN1cGVyKHByb3BzKVxyXG4gICAgfVxyXG5cclxuICAgIHJlbmRlcigpIHtcclxuICAgICAgICByZXR1cm4gKFxyXG4gICAgICAgICAgICA8TGF5b3V0PlxyXG4gICAgICAgICAgICAgICAgPHN0eWxlIGpzeCBnbG9iYWw+e2Bib2R5e21hcmdpbjogMDsgcGFkZGluZzogMDt9YH08L3N0eWxlPlxyXG5cclxuICAgICAgICAgICAgICAgIDxoMj5BY2NvdW50IHBhZ2Ugd29yay48L2gyPlxyXG4gICAgICAgICAgICA8L0xheW91dD5cclxuICAgICAgICApXHJcbiAgICB9XHJcbn0iXX0= */\n/*@ sourceURL=C:\\\\coding\\\\smat-frind\\\\pages\\\\account.js */"), __jsx("h2", {
+      }, "body{margin:0;padding:0;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkM6XFxjb2RpbmdcXHNtYXQtZnJpbmRcXHBhZ2VzXFxhY2NvdW50LmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQVltQyxBQUNjLFNBQVcsVUFBQyIsImZpbGUiOiJDOlxcY29kaW5nXFxzbWF0LWZyaW5kXFxwYWdlc1xcYWNjb3VudC5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBSZWFjdCwgeyBDb21wb25lbnQgfSBmcm9tICdyZWFjdCdcclxuaW1wb3J0IExheW91dCBmcm9tICcuLi9jb21wb25lbnRzL2xheW91dCdcclxuaW1wb3J0IEhlYWQgZnJvbSAnbmV4dC9oZWFkJ1xyXG5cclxuZXhwb3J0IGRlZmF1bHQgY2xhc3MgQWNjb3VudCBleHRlbmRzIENvbXBvbmVudCB7XHJcbiAgICBjb25zdHJ1Y3Rvcihwcm9wcykge1xyXG4gICAgICAgIHN1cGVyKHByb3BzKVxyXG4gICAgfVxyXG5cclxuICAgIHJlbmRlcigpIHtcclxuICAgICAgICByZXR1cm4gKFxyXG4gICAgICAgICAgICA8TGF5b3V0PlxyXG4gICAgICAgICAgICAgICAgPHN0eWxlIGpzeCBnbG9iYWw+e2Bib2R5e21hcmdpbjogMDsgcGFkZGluZzogMDt9YH08L3N0eWxlPlxyXG5cclxuICAgICAgICAgICAgICAgIDxoMj5BY2NvdW50IHBhZ2Ugd29yay48L2gyPlxyXG4gICAgICAgICAgICAgICAgPGgzPkRldmVsb3AgQnk6IFBhbnVwb25nPC9oMz5cclxuICAgICAgICAgICAgPC9MYXlvdXQ+XHJcbiAgICAgICAgKVxyXG4gICAgfVxyXG59Il19 */\n/*@ sourceURL=C:\\\\coding\\\\smat-frind\\\\pages\\\\account.js */"), __jsx("h2", {
         className: "jsx-141283298",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 15
         },
         __self: this
-      }, "Account page work."));
+      }, "Account page work."), __jsx("h3", {
+        className: "jsx-141283298",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 16
+        },
+        __self: this
+      }, "Develop By: Panupong"));
     }
   }]);
 
@@ -11864,7 +11871,7 @@ function (_Component) {
 
 /***/ }),
 
-/***/ 2:
+/***/ 0:
 /*!***********************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Faccount&absolutePagePath=C%3A%5Ccoding%5Csmat-frind%5Cpages%5Caccount.js ***!
   \***********************************************************************************************************************/
@@ -11887,5 +11894,5 @@ module.exports = dll_ef0ff7c60362f24a921f;
 
 /***/ })
 
-},[[2,"static/runtime/webpack.js"]]]);
+},[[0,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=account.js.map
